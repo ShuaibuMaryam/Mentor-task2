@@ -1,0 +1,144 @@
+*{
+    margin:0;
+}
+body{
+    background-color: #CCF32A;
+    font-family: 'Monsterrat', sans-serif;
+}
+nav{
+    background-color: black;
+    padding: 15px;
+    margin-bottom: 50px;
+}
+li{
+    display: inline;
+    color:white;
+}
+li a{
+    float:right;
+    text-decoration:none;
+    color:white;
+    margin-right: 20px;
+}
+.first{
+    background-color: white;
+    width:55%;
+    padding: 45px 20px 20px 15px;
+    border-radius: 5px;
+    margin: 0 auto ;
+    box-shadow: 0 2px 0 0 #766E6E ;
+}
+.first p{
+    margin-top: 15px;
+    font-size:14px; 
+}
+#I{
+    font-size: 30px;
+    margin-left: 300px;
+}
+#j{
+    color:grey;
+}
+#T{
+    font-size: 11px;
+    margin-top:25px;
+    margin-left: 300px;
+    margin-bottom: 25px;
+}
+.first button{
+    padding: 10px 15px;
+    background-color: #2AA1C9;
+    border:none;
+    margin-top:35px;
+    border-radius:2px;
+    color:white;
+}
+.second{
+    background-color: #20E1E1;
+    height: 500px;
+    width:100%;
+    position: relative;
+    margin-top:60px;
+    padding-top:25px;
+    transform:skewY(-5deg)
+}
+.iframe{
+    width:55%;
+    height:80%;
+    /* margin-top:20px; */
+    margin: 0 auto;
+    background-color: white;
+    padding: 35px 20px 20px 15px;
+    border-radius: 5px;
+    transform:skewY(5deg);
+    box-shadow: 0 2px 0 0 #766E6E;
+}
+.third{
+    height:500px;
+    background-color:#F5359D;
+    /* margin-top:60px;  */
+    transform:skewY(5deg);
+    padding-top:20px;
+}
+.contactMe{
+    width:55%;
+    background-color:white;
+    transform:skewY(-5deg);
+    margin:0 auto;
+    padding: 35px 20px 20px 15px;
+    border-radius:5px;
+    box-shadow: 0 2px 0 0 #766E6E;
+}
+.contactMe p{
+    margin-top:25px;
+}
+.contactMe h4{
+    font-size:30px;
+}
+form{
+    margin-top:25px;
+}
+#lI{
+    background-color: inherit;
+    border-bottom:1px solid #727070;
+    width:90%;
+}
+input{
+    background-color:#E3DADA;
+    padding:8px;
+    border:none;
+    margin-left:10px;
+}
+#email{
+    margin-left:50px;
+}
+#botton{
+    background-color:#2AA1C9;
+    padding: 10px 20px;
+    margin-top:20px;
+    border:none;
+    border-radius: 2px;
+    color:white;
+
+}
+#thirdP{
+    transform:skewY(-5deg);
+    text-align: center;
+    margin-top: 50px;
+}
+.i1{
+    width:49%;
+    float:left;
+    height:80%;
+    border:1px solid grey;
+    border-radius:5px;
+}
+.i2{
+    width:49%;
+    float:right;
+    height:80%;
+    border:1px solid grey;
+    border-radius:5px;
+}
+
+
